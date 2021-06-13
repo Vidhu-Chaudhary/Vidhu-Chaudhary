@@ -36,5 +36,5 @@ I am a 3rd-year student pursuing B.Tech in the field of Computer Science and Eng
 
 ## :rainbow: Have a good day! You got this!
 
-
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Vidhu-Chaudhary alt=Vidhu-Chaudhary/></p>
 
