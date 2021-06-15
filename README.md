@@ -34,7 +34,7 @@ I am a 3rd-year student pursuing B.Tech in the field of Computer Science and Eng
 
 - ⚡ Fun fact: **I love 2-D characters >>**
 
-## :rainbow: Have a good day! You got this!
+## :rainbow: Have a good day! We got this!
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Vidhu-Chaudhary alt=Vidhu-Chaudhary/></p>
 
