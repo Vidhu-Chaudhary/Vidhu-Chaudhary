@@ -30,7 +30,7 @@ I am a 3rd-year student pursuing B.Tech in the field of Computer Science and Eng
 
 - 💬 Ask me anything about anything, I am happy to help anytime!
 
-- 📫 How to reach me **vc.vidhuchaudhary@gmail.com**
+- 📫 How to reach me: **vc.vidhuchaudhary@gmail.com**
 
 - ⚡ Fun fact: **I love 2-D characters >>**
 
