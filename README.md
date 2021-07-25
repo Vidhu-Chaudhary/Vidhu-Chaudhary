@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px"> , I'm Vidhu Chaudhary </h1>
 
-<h3 align="left">CS undergrad || Coder || Developer || Designer</h3>
+<h3 align="left">CS undergrad || Coder || Developer || Designer</h3>  
 
 I code for FUN in any language including   
 | Python | C++ | C | JAVA |
