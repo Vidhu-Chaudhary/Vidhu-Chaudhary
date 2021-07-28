@@ -26,7 +26,7 @@ I code for FUN in any language including
 </p>
 
 
-I am a 3rd-year student pursuing B.Tech in the field of Computer Science and Engineering from Banasthali Vidyapith. I'm a tech enthusiast with a great interest in Artificial Intelligence and Machine Learning. I'm well versed with Data Structures and Algorithms in Python. I believe the idea of creation is an exhilarating experience and my guiding principle is, “There is no special ingredient”.
+I am a final year undergraduate student pursuing B.Tech in the field of Computer Science and Engineering from Banasthali Vidyapith. I'm a tech enthusiast with a great interest in Artificial Intelligence and Machine Learning. I'm well versed with Data Structures and Algorithms in Python. I believe the idea of creation is an exhilarating experience and my guiding principle is, “There is no special ingredient”.
 
 - 💬 Ask me anything about anything, I am happy to help anytime!
 
